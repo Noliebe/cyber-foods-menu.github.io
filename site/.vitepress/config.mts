@@ -16,16 +16,23 @@ export default defineConfig({
       { text: '炒菜', link: '/stir-fry/stir-fry' },
       { text: '炖菜', link: '/markdown-examples' },
       { text: '点心', link: '/markdown-examples' },
-      { text: '饮品', link: '/markdown-examples' }
+      { text: '饮品', link: '/beverages/beverages' }
     ],
 
     sidebar: [
       {
         text: '炒菜',
         items: [
-          { text: '炒菜首页', link: '/stir-fry/stir-fry' },
+          // { text: '炒菜首页', link: '/stir-fry/stir-fry' },
           { text: '临沂炒鸡', link: '/stir-fry/临沂炒鸡' },
           { text: '辣椒炒肉', link: '/stir-fry/辣椒炒肉' }
+        ]
+      },
+      {
+        text: '饮品',
+        items: [
+          // { text: '炒菜首页', link: '/beverages/beverages' },
+          { text: '茉酸奶', link: '/beverages/茉酸奶' },
         ]
       }
     ],
