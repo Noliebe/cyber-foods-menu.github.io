@@ -32,6 +32,7 @@ export default defineConfig({
         text: '饮品',
         items: [
           // { text: '炒菜首页', link: '/beverages/beverages' },
+          { text: '奶茶', link: '/beverages/奶茶' },
           { text: '茉酸奶', link: '/beverages/茉酸奶' },
         ]
       }
