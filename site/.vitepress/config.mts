@@ -13,10 +13,10 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: '炒菜', link: '/stir-fry/stir-fry' },
-      { text: '炖菜', link: '/markdown-examples' },
-      { text: '点心', link: '/markdown-examples' },
-      { text: '饮品', link: '/beverages/beverages' }
+      { text: '炒菜', link: '/stir-fry/临沂炒鸡' },
+      // { text: '炖菜', link: '/stir-fry/临沂炒鸡' },
+      // { text: '点心', link: '/markdown-examples' },
+      { text: '饮品', link: '/beverages/茉酸奶' }
     ],
 
     sidebar: [
