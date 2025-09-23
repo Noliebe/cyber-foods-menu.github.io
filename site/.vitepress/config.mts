@@ -24,7 +24,8 @@ export default defineConfig({
         text: '炒菜',
         items: [
           { text: '炒菜首页', link: '/stir-fry/stir-fry' },
-          { text: '临沂炒鸡', link: '/stir-fry/临沂炒鸡' }
+          { text: '临沂炒鸡', link: '/stir-fry/临沂炒鸡' },
+          { text: '辣椒炒肉', link: '/stir-fry/辣椒炒肉' }
         ]
       }
     ],
