@@ -1,6 +1,6 @@
 # noliebe-note
 
-## link (因为是新库, io还没上线, 可以访问 site 目录内的 md文件 来查看内容)
+## link (也可以访问 site 目录内的 md文件 来查看内容)
 
 https://noliebe.github.io/cyber-foods-menu.github.io/
 
