@@ -14,7 +14,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: '炒菜', link: '/stir-fry/临沂炒鸡' },
-      // { text: '炖菜', link: '/stir-fry/临沂炒鸡' },
+      { text: '炖菜', link: '/stew/青菜丸子粉丝汤@nz' },
       // { text: '点心', link: '/markdown-examples' },
       { text: '饮品', link: '/beverages/茉酸奶' }
     ],
@@ -26,6 +26,13 @@ export default defineConfig({
           // { text: '炒菜首页', link: '/stir-fry/stir-fry' },
           { text: '临沂炒鸡', link: '/stir-fry/临沂炒鸡' },
           { text: '辣椒炒肉', link: '/stir-fry/辣椒炒肉' }
+        ]
+      },
+      {
+        text: '炖菜',
+        items: [
+          // { text: '炒菜首页', link: '/stir-fry/stir-fry' },
+          { text: '青菜丸子粉丝汤@nz', link: '/stew/青菜丸子粉丝汤@nz' }
         ]
       },
       {
