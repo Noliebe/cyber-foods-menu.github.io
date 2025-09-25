@@ -25,14 +25,16 @@ export default defineConfig({
         items: [
           // { text: '炒菜首页', link: '/stir-fry/stir-fry' },
           { text: '临沂炒鸡', link: '/stir-fry/临沂炒鸡' },
-          { text: '辣椒炒肉', link: '/stir-fry/辣椒炒肉' }
+          { text: '辣椒炒肉', link: '/stir-fry/辣椒炒肉' },
+          { text: '炒油麦菜', link: '/stir-fry/炒油麦菜' }
         ]
       },
       {
         text: '炖菜',
         items: [
           // { text: '炒菜首页', link: '/stir-fry/stir-fry' },
-          { text: '青菜丸子粉丝汤@nz', link: '/stew/青菜丸子粉丝汤@nz' }
+          { text: '青菜丸子粉丝汤@nz', link: '/stew/青菜丸子粉丝汤@nz' },
+          { text: '番茄牛腩土豆', link: '/stew/番茄牛腩土豆' }
         ]
       },
       {
