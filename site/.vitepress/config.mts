@@ -15,8 +15,8 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: '炒菜', link: '/stir-fry/临沂炒鸡' },
       { text: '炖菜', link: '/stew/青菜丸子粉丝汤@nz' },
-      // { text: '点心', link: '/markdown-examples' },
-      { text: '饮品', link: '/beverages/茉酸奶' }
+      { text: '主食', link: '/staple-food/豌杂面' },
+      { text: '饮品点心', link: '/beverages/茉酸奶' }
     ],
 
     sidebar: [
@@ -34,11 +34,18 @@ export default defineConfig({
         items: [
           // { text: '炒菜首页', link: '/stir-fry/stir-fry' },
           { text: '青菜丸子粉丝汤@nz', link: '/stew/青菜丸子粉丝汤@nz' },
-          { text: '番茄牛腩土豆', link: '/stew/番茄牛腩土豆' }
+          { text: '番茄牛腩土豆', link: '/stew/番茄牛腩土豆' },
+          { text: '鸡公煲', link: '/stew/鸡公煲' }
         ]
       },
       {
-        text: '饮品',
+        text: '主食',
+        items: [
+          { text: '肉沫豌豆泥面', link: '/staple-food/肉沫豌豆泥面' }
+        ]
+      },
+      {
+        text: '饮品点心',
         items: [
           // { text: '炒菜首页', link: '/beverages/beverages' },
           { text: '茉酸奶', link: '/beverages/茉酸奶' },
