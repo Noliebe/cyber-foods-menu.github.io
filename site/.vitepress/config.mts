@@ -15,7 +15,7 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: '炒菜', link: '/stir-fry/临沂炒鸡' },
       { text: '炖菜', link: '/stew/青菜丸子粉丝汤@nz' },
-      { text: '主食', link: '/staple-food/豌杂面' },
+      { text: '主食', link: '/staple-food/肉沫豌豆泥面' },
       { text: '饮品点心', link: '/beverages/茉酸奶' }
     ],
 
