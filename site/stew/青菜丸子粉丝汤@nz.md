@@ -5,25 +5,25 @@
 
 ## 备料
 
-肉馅, 尽量新鲜, 瘦:肥 9:1, 肉馅不应该均质, 应该有颗粒感, 也不应该过细, 鱼丸一样的肉丸不会好吃.
+1. <input type="checkbox"> 肉馅, 尽量新鲜, 瘦:肥 9:1, 肉馅不应该均质, 应该有颗粒感, 也不应该过细, 鱼丸一样的肉丸不会好吃.
 
-上海青
+2. <input type="checkbox"> 上海青
 
-粉丝, 提前泡开
+3. <input type="checkbox"> 粉丝, 提前泡开
 
-鸡蛋
+4. <input type="checkbox"> 鸡蛋
 
-姜, 凿子或药船, 制成糜
+5. <input type="checkbox"> 姜, 凿子或药船, 制成糜
 
-葱, 切葱圈
+6. <input type="checkbox"> 葱, 切葱圈
 
-生抽
+7. <input type="checkbox"> 生抽
 
-大红袍花椒粉
+8. <input type="checkbox"> 大红袍花椒粉
 
-白胡椒粉
+9. <input type="checkbox"> 白胡椒粉
 
-盐
+10. <input type="checkbox"> 盐
 
 
 ## 烹调工序

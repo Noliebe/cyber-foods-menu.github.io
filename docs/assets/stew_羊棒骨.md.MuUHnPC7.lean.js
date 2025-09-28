@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as i,ae as t}from"./chunks/framework.C2WZnq5v.js";const u=JSON.parse('{"title":"羊棒骨","description":"","frontmatter":{},"headers":[],"relativePath":"stew/羊棒骨.md","filePath":"stew/羊棒骨.md"}'),o={name:"stew/羊棒骨.md"};function c(p,l,b,n,r,h){return i(),a("div",null,l[0]||(l[0]=[t("",8)]))}const _=e(o,[["render",c]]);export{u as __pageData,_ as default};

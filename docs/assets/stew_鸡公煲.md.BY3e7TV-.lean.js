@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,ae as i}from"./chunks/framework.C2WZnq5v.js";const u=JSON.parse('{"title":"鸡公煲","description":"","frontmatter":{},"headers":[],"relativePath":"stew/鸡公煲.md","filePath":"stew/鸡公煲.md"}'),p={name:"stew/鸡公煲.md"};function o(r,l,b,c,n,h){return t(),a("div",null,l[0]||(l[0]=[i("",10)]))}const _=e(p,[["render",o]]);export{u as __pageData,_ as default};
